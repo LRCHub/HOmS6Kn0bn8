@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ネコカブリーナ",
   "base_artist": "猫又おかゆ",
-  "createdAt": "2026-01-11T00:42:28.427927Z",
+  "createdAt": "2026-03-31T17:41:58.392635Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,24 @@
       "artist": "猫又おかゆ",
       "has_synced": false,
       "path": "select/pl_01_ネコカブリーナ_猫又おかゆ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ネコカブリーナ",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/localdb_01_ネコカブリーナ_猫又おかゆ.txt",
+      "repo_name": "EzaNWGSOTx4"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ネコカブリーナ",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/localdb_02_ネコカブリーナ_猫又おかゆ.txt",
+      "repo_name": "HOmS6Kn0bn8"
     }
   ]
 }
